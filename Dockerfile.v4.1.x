@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Matt Bentley <mbentley@mbentley.net>
+MAINTAINER MPSoft Denmark <info@mpsoft.dk>
 
 # install omada controller (instructions taken from install.sh); then create a user & group and set the appropriate file system permissions
 RUN \

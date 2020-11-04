@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Matt Bentley <mbentley@mbentley.net>
+MAINTAINER MPSoft Denmark <info@mpsoft.dk>
 
 # install runtime dependencies
 RUN apt-get update &&\
